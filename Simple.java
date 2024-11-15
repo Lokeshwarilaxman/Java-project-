@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Simple {
+public class mini_project {
     // Method to check if a given date is valid
     public static boolean validity(int day, int month, int year) {
         switch (month) {
